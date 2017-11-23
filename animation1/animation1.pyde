@@ -24,5 +24,5 @@ def draw():
     # DRAWING
     background(255)
     noStroke()
-    fill(255, 0, 0)
+    fill(0, 100, 0)
     ellipse(x, 100, 40, 40)
